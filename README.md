@@ -1,1 +1,1 @@
-# fancy-todo-app
+# Fancy ToDo App 🦹
